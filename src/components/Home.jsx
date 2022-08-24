@@ -12,7 +12,7 @@ function Home() {
         <h2 className="text-4xl sm:text:text-7xl font-bold text-[#8892b0]">
           I'm a full stack web developer
         </h2>
-        <p className="text-[#8892b0] py-4 max-w-[700px]">
+        <p className="text-[#8892b0] py-4 max-w-[500px]">
           I'm a full stack developer specializing in the MERN stack. Currently,
           I'm focused on building responsive full stack applications.
         </p>
