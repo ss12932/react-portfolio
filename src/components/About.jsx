@@ -14,7 +14,7 @@ const About = () => {
           <div className="sm:text-right text-4xl font-bold ">
             <p>Hi I'm Sinh, nice to meet you. Please take a look around!</p>
           </div>
-          <div class="space-y-2">
+          <div className="space-y-2">
             <p>
               Front end web developer looking to break into my first web
               development role and create life changing and meaningful web
