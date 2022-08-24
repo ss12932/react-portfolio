@@ -11,81 +11,105 @@ const Work = () => {
           <p className="py-6">Check out my recent work</p>
         </div>
         <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-          <div class="card max-w-sm bg-base-100 shadow-xl mx-auto">
-            <figure>
-              <img src="https://placeimg.com/400/225/arch" alt="Shoes" />
+          <div className="card max-w-sm bg-base-100 shadow-xl mx-auto">
+            <figure className="h-52 overflow-hidden">
+              <img
+                className="w-full h-full object-cover object-top"
+                src="https://github.com/ss12932/horiseon-code-refactor/raw/main/Assets/images/01-html-css-git-homework-demo.png"
+                alt="Shoes"
+              />
             </figure>
-            <div class="card-body">
-              <h2 class="card-title">Shoes!</h2>
+            <div className="card-body">
+              <h2 className="card-title">Shoes!</h2>
               <p>If a dog chews shoes whose shoes does he choose?</p>
-              <div class="mx-auto space-x-6">
-                <button class="btn btn-primary mx-auto">Demo</button>
-                <button class="btn btn-primary mx-auto">Code</button>
+              <div className="mx-auto space-x-6">
+                <button className="btn btn-primary mx-auto">Demo</button>
+                <button className="btn btn-primary mx-auto">Code</button>
               </div>
             </div>
           </div>
-          <div class="card max-w-sm bg-base-100 shadow-xl mx-auto">
-            <figure>
-              <img src="https://placeimg.com/400/225/arch" alt="Shoes" />
+          <div className="card max-w-sm bg-base-100 shadow-xl mx-auto">
+            <figure className="h-52 overflow-hidden">
+              <img
+                className="w-full h-full object-cover object-top"
+                src="https://placeimg.com/400/225/arch"
+                alt="Shoes"
+              />
             </figure>
-            <div class="card-body">
-              <h2 class="card-title">Shoes!</h2>
+            <div className="card-body">
+              <h2 className="card-title ">Shoes!</h2>
               <p>If a dog chews shoes whose shoes does he choose?</p>
-              <div class="mx-auto space-x-6">
-                <button class="btn btn-primary mx-auto">Demo</button>
-                <button class="btn btn-primary mx-auto">Code</button>
+              <div className="mx-auto space-x-6">
+                <button className="btn btn-primary mx-auto">Demo</button>
+                <button className="btn btn-primary mx-auto">Code</button>
               </div>
             </div>
           </div>
-          <div class="card max-w-sm bg-base-100 shadow-xl mx-auto">
-            <figure>
-              <img src="https://placeimg.com/400/225/arch" alt="Shoes" />
+          <div className="card max-w-sm bg-base-100 shadow-xl mx-auto">
+            <figure className="h-52 overflow-hidden">
+              <img
+                className="w-full h-full object-cover object-top"
+                src="https://placeimg.com/400/225/arch"
+                alt="Shoes"
+              />
             </figure>
-            <div class="card-body">
-              <h2 class="card-title">Shoes!</h2>
+            <div className="card-body">
+              <h2 className="card-title">Shoes!</h2>
               <p>If a dog chews shoes whose shoes does he choose?</p>
-              <div class="mx-auto space-x-6">
-                <button class="btn btn-primary mx-auto">Demo</button>
-                <button class="btn btn-primary mx-auto">Code</button>
+              <div className="mx-auto space-x-6">
+                <button className="btn btn-primary mx-auto">Demo</button>
+                <button className="btn btn-primary mx-auto">Code</button>
               </div>
             </div>
           </div>
-          <div class="card max-w-sm bg-base-100 shadow-xl mx-auto">
-            <figure>
-              <img src="https://placeimg.com/400/225/arch" alt="Shoes" />
+          <div className="card max-w-sm bg-base-100 shadow-xl mx-auto">
+            <figure className="h-52 overflow-hidden">
+              <img
+                className="w-full h-full object-cover object-top"
+                src="https://placeimg.com/400/225/arch"
+                alt="Shoes"
+              />
             </figure>
-            <div class="card-body">
-              <h2 class="card-title">Shoes!</h2>
+            <div className="card-body">
+              <h2 className="card-title">Shoes!</h2>
               <p>If a dog chews shoes whose shoes does he choose?</p>
-              <div class="mx-auto space-x-6">
-                <button class="btn btn-primary mx-auto">Demo</button>
-                <button class="btn btn-primary mx-auto">Code</button>
+              <div className="mx-auto space-x-6">
+                <button className="btn btn-primary mx-auto">Demo</button>
+                <button className="btn btn-primary mx-auto">Code</button>
               </div>
             </div>
           </div>
-          <div class="card max-w-sm bg-base-100 shadow-xl mx-auto">
-            <figure>
-              <img src="https://placeimg.com/400/225/arch" alt="Shoes" />
+          <div className="card max-w-sm bg-base-100 shadow-xl mx-auto">
+            <figure className="h-52 overflow-hidden">
+              <img
+                className="w-full h-full object-cover object-top"
+                src="https://placeimg.com/400/225/arch"
+                alt="Shoes"
+              />
             </figure>
-            <div class="card-body">
-              <h2 class="card-title">Shoes!</h2>
+            <div className="card-body">
+              <h2 className="card-title">Shoes!</h2>
               <p>If a dog chews shoes whose shoes does he choose?</p>
-              <div class="mx-auto space-x-6">
-                <button class="btn btn-primary mx-auto">Demo</button>
-                <button class="btn btn-primary mx-auto">Code</button>
+              <div className="mx-auto space-x-6">
+                <button className="btn btn-primary mx-auto">Demo</button>
+                <button className="btn btn-primary mx-auto">Code</button>
               </div>
             </div>
           </div>
-          <div class="card max-w-sm bg-base-100 shadow-xl mx-auto">
-            <figure>
-              <img src="https://placeimg.com/400/225/arch" alt="Shoes" />
+          <div className="card max-w-sm bg-base-100 shadow-xl mx-auto">
+            <figure className="h-52 overflow-hidden">
+              <img
+                className="w-full h-full object-cover object-top"
+                src="https://placeimg.com/400/225/arch"
+                alt="Shoes"
+              />
             </figure>
-            <div class="card-body">
-              <h2 class="card-title">Shoes!</h2>
+            <div className="card-body">
+              <h2 className="card-title">Shoes!</h2>
               <p>If a dog chews shoes whose shoes does he choose?</p>
-              <div class="mx-auto space-x-6">
-                <button class="btn btn-primary mx-auto">Demo</button>
-                <button class="btn btn-primary mx-auto">Code</button>
+              <div className="mx-auto space-x-6">
+                <button className="btn btn-primary mx-auto">Demo</button>
+                <button className="btn btn-primary mx-auto">Code</button>
               </div>
             </div>
           </div>
