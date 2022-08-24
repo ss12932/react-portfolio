@@ -19,12 +19,12 @@ const Work = () => {
                 alt="Shoes"
               />
             </figure>
-            <div className="card-body">
+            <div className="card-body bg-blue-900 space-y-2">
               <h2 className="card-title">Shoes!</h2>
               <p>If a dog chews shoes whose shoes does he choose?</p>
               <div className="mx-auto space-x-6">
-                <button className="btn btn-primary mx-auto">Demo</button>
-                <button className="btn btn-primary mx-auto">Code</button>
+                <button className="btn bg-[#e31a6d] mx-auto">Demo</button>
+                <button className="btn bg-[#e31a6d] mx-auto">Code</button>
               </div>
             </div>
           </div>
@@ -36,12 +36,12 @@ const Work = () => {
                 alt="Shoes"
               />
             </figure>
-            <div className="card-body">
+            <div className="card-body bg-blue-900 space-y-2">
               <h2 className="card-title ">Shoes!</h2>
               <p>If a dog chews shoes whose shoes does he choose?</p>
               <div className="mx-auto space-x-6">
-                <button className="btn btn-primary mx-auto">Demo</button>
-                <button className="btn btn-primary mx-auto">Code</button>
+                <button className="btn bg-[#e31a6d] mx-auto">Demo</button>
+                <button className="btn bg-[#e31a6d] mx-auto">Code</button>
               </div>
             </div>
           </div>
@@ -53,12 +53,12 @@ const Work = () => {
                 alt="Shoes"
               />
             </figure>
-            <div className="card-body">
+            <div className="card-body bg-blue-900 space-y-2">
               <h2 className="card-title">Shoes!</h2>
               <p>If a dog chews shoes whose shoes does he choose?</p>
               <div className="mx-auto space-x-6">
-                <button className="btn btn-primary mx-auto">Demo</button>
-                <button className="btn btn-primary mx-auto">Code</button>
+                <button className="btn bg-[#e31a6d] mx-auto">Demo</button>
+                <button className="btn bg-[#e31a6d] mx-auto">Code</button>
               </div>
             </div>
           </div>
@@ -70,12 +70,12 @@ const Work = () => {
                 alt="Shoes"
               />
             </figure>
-            <div className="card-body">
+            <div className="card-body bg-blue-900 space-y-2">
               <h2 className="card-title">Shoes!</h2>
               <p>If a dog chews shoes whose shoes does he choose?</p>
               <div className="mx-auto space-x-6">
-                <button className="btn btn-primary mx-auto">Demo</button>
-                <button className="btn btn-primary mx-auto">Code</button>
+                <button className="btn bg-[#e31a6d] mx-auto">Demo</button>
+                <button className="btn bg-[#e31a6d] mx-auto">Code</button>
               </div>
             </div>
           </div>
@@ -87,12 +87,12 @@ const Work = () => {
                 alt="Shoes"
               />
             </figure>
-            <div className="card-body">
+            <div className="card-body bg-blue-900 space-y-2">
               <h2 className="card-title">Shoes!</h2>
               <p>If a dog chews shoes whose shoes does he choose?</p>
               <div className="mx-auto space-x-6">
-                <button className="btn btn-primary mx-auto">Demo</button>
-                <button className="btn btn-primary mx-auto">Code</button>
+                <button className="btn bg-[#e31a6d] mx-auto">Demo</button>
+                <button className="btn bg-[#e31a6d] mx-auto">Code</button>
               </div>
             </div>
           </div>
@@ -104,12 +104,12 @@ const Work = () => {
                 alt="Shoes"
               />
             </figure>
-            <div className="card-body">
+            <div className="card-body bg-blue-900 space-y-2">
               <h2 className="card-title">Shoes!</h2>
               <p>If a dog chews shoes whose shoes does he choose?</p>
               <div className="mx-auto space-x-6">
-                <button className="btn btn-primary mx-auto">Demo</button>
-                <button className="btn btn-primary mx-auto">Code</button>
+                <button className="btn bg-[#e31a6d] mx-auto">Demo</button>
+                <button className="btn bg-[#e31a6d] mx-auto">Code</button>
               </div>
             </div>
           </div>
