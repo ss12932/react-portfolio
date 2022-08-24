@@ -14,19 +14,26 @@ const About = () => {
           <div className="sm:text-right text-4xl font-bold ">
             <p>Hi I'm Sinh, nice to meet you. Please take a look around!</p>
           </div>
-          <div>
+          <div class="space-y-2">
             <p>
               Front end web developer looking to break into my first web
               development role and create life changing and meaningful web
-              applications. I've recently undertaken and obtained a certificate
-              in full stack development from the University of Birmingham with
-              strong foundations in many languages and frameworks. Originally
-              pursued a Mathematics degree, I'm a motivated problem solver who
-              enjoys logical and analytical thinking, with a strong focus in
-              mobile first design and development. I'm very passionate about
-              developing web applications to build and change people's lives and
-              experiences for the better. Also open for new and exciting
-              opportunities!
+              applications.
+            </p>
+            <p>
+              I've recently undertaken and obtained a certificate in full stack
+              development from the University of Birmingham with strong
+              foundations in many languages and frameworks.
+            </p>
+            <p>
+              Originally pursued a Mathematics degree, I'm a motivated problem
+              solver who enjoys logical and analytical thinking, with a strong
+              focus in mobile first design and development.
+            </p>
+            <p>
+              I'm very passionate about developing web applications to build and
+              change people's lives and experiences for the better. Also open
+              for new and exciting opportunities!
             </p>
           </div>
         </div>
