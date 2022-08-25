@@ -11,6 +11,9 @@ import Bootstrap from '../assets/bootstrap.png';
 import Firebase from '../assets/firebase.png';
 import JQuery from '../assets/jquery.png';
 import Heroku from '../assets/heroku.png';
+import Mongoose from '../assets/mongoose.png';
+import Express from '../assets/express.png';
+import Vercel from '../assets/vercel.png';
 
 const Skills = () => {
   return (
@@ -75,6 +78,18 @@ const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 hover:bg-gray-300 hover:text-gray-700 duration-500 bg-blue-900">
             <img className="w-20 mx-auto" src={Heroku} alt="Heroku icon" />
             <p className="my-4">Heroku</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 hover:bg-gray-300 hover:text-gray-700 duration-500 bg-blue-900">
+            <img className="w-20 mx-auto" src={Mongoose} alt="Heroku icon" />
+            <p className="my-4">Mongoose</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 hover:bg-gray-300 hover:text-gray-700 duration-500 bg-blue-900">
+            <img className="w-20 mx-auto" src={Vercel} alt="Heroku icon" />
+            <p className="my-4">Vercel</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 hover:bg-gray-300 hover:text-gray-700 duration-500 bg-blue-900">
+            <img className="w-20 mx-auto" src={Express} alt="Heroku icon" />
+            <p className="my-4">Express</p>
           </div>
         </div>
       </div>
