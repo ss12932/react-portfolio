@@ -17,7 +17,7 @@ const Work = () => {
           <div className="card max-w-sm bg-base-100 shadow-xl rounded-none mx-auto">
             <figure className="h-52 overflow-hidden">
               <img
-                className="w-full h-full object-cover object-top"
+                className="w-full h-full object-cover object-top p-4 bg-blue-900"
                 src="https://github.com/ss12932/horiseon-code-refactor/raw/main/Assets/images/01-html-css-git-homework-demo.png"
                 alt="Shoes"
               />
@@ -41,7 +41,7 @@ const Work = () => {
           <div className="card max-w-sm bg-base-100 shadow-xl rounded-none mx-auto">
             <figure className="h-52 overflow-hidden">
               <img
-                className="w-full h-full object-cover object-top"
+                className="w-full h-full object-cover object-top p-4 bg-blue-900"
                 src="https://github.com/ss12932/professional-portfolio/raw/main/assets/images/application-screenshot.png"
                 alt="Shoes"
               />
@@ -65,7 +65,7 @@ const Work = () => {
           <div className="card max-w-sm bg-base-100 shadow-xl rounded-none mx-auto">
             <figure className="h-52 overflow-hidden">
               <img
-                className="w-full h-full object-cover object-top"
+                className="w-full h-full object-cover object-top p-4 bg-blue-900"
                 src="https://github.com/ss12932/password-generator/raw/main/Assets/03-javascript-homework-demo.png"
                 alt="Shoes"
               />
@@ -89,7 +89,7 @@ const Work = () => {
           <div className="card max-w-sm bg-base-100 shadow-xl rounded-none mx-auto">
             <figure className="h-52 overflow-hidden">
               <img
-                className="w-full h-full object-cover object-top"
+                className="w-full h-full object-cover object-top p-4 bg-blue-900"
                 src="https://github.com/ss12932/js-code-quiz/raw/main/assets/img/app-screenshot.png"
                 alt="Shoes"
               />
@@ -115,7 +115,7 @@ const Work = () => {
           <div className="card max-w-sm bg-base-100 shadow-xl rounded-none mx-auto">
             <figure className="h-52 overflow-hidden">
               <img
-                className="w-full h-full object-cover object-top"
+                className="w-full h-full object-cover object-top p-4 bg-blue-900"
                 src="https://github.com/ss12932/day-planner/raw/main/assets/img/app-img.png"
                 alt="Shoes"
               />
@@ -141,7 +141,7 @@ const Work = () => {
           <div className="card max-w-sm bg-base-100 shadow-xl rounded-none mx-auto">
             <figure className="h-52 overflow-hidden">
               <img
-                className="w-full h-full object-cover object-top"
+                className="w-full h-full object-cover object-top p-4 bg-blue-900"
                 src="https://github.com/ss12932/weather-dashboard/raw/main/assets/img/desktop-view.png"
                 alt="Shoes"
               />
@@ -167,7 +167,7 @@ const Work = () => {
           <div className="card max-w-sm bg-base-100 shadow-xl rounded-none mx-auto">
             <figure className="h-52 overflow-hidden">
               <img
-                className="w-full h-full object-cover object-top"
+                className="w-full h-full object-cover object-top p-4 bg-blue-900"
                 src="https://github.com/ss12932/weather-dashboard/raw/main/assets/img/desktop-view.png"
                 alt="Shoes"
               />
@@ -193,7 +193,7 @@ const Work = () => {
           <div className="card max-w-sm bg-base-100 shadow-xl rounded-none mx-auto">
             <figure className="h-52 overflow-hidden">
               <img
-                className="w-full h-full object-cover object-top"
+                className="w-full h-full object-cover object-top p-4 bg-blue-900"
                 src="https://github.com/ss12932/currency-news-project/raw/main/assets/images/app/home-page.jpg"
                 alt="Shoes"
               />
@@ -220,7 +220,7 @@ const Work = () => {
           <div className="card max-w-sm bg-base-100 shadow-xl rounded-none mx-auto">
             <figure className="h-52 overflow-hidden">
               <img
-                className="w-full h-full object-cover object-top"
+                className="w-full h-full object-cover object-top p-4 bg-blue-900"
                 src="https://github.com/ss12932/readme-generator/raw/main/public/assets/images/screenshot.png"
                 alt="Shoes"
               />
@@ -245,7 +245,7 @@ const Work = () => {
           <div className="card max-w-sm bg-base-100 shadow-xl rounded-none mx-auto">
             <figure className="h-52 overflow-hidden">
               <img
-                className="w-full h-full object-cover object-top"
+                className="w-full h-full object-cover object-top p-4 bg-blue-900"
                 src="https://github.com/ss12932/team-profile-generator/raw/main/public/assets/img/team-profile.png"
                 alt="Shoes"
               />
@@ -272,7 +272,7 @@ const Work = () => {
           <div className="card max-w-sm bg-base-100 shadow-xl rounded-none mx-auto">
             <figure className="h-52 overflow-hidden">
               <img
-                className="w-full h-full object-cover object-top"
+                className="w-full h-full object-cover object-top p-4 bg-blue-900"
                 src="https://github.com/ss12932/note-taker/raw/main/public/assets/images/11-express-homework-demo-02.png"
                 alt="Shoes"
               />
@@ -297,7 +297,7 @@ const Work = () => {
           <div className="card max-w-sm bg-base-100 shadow-xl rounded-none mx-auto">
             <figure className="h-52 overflow-hidden">
               <img
-                className="w-full h-full object-cover object-top"
+                className="w-full h-full object-cover object-top p-4 bg-blue-900"
                 src="https://github.com/ss12932/employee-tracker/raw/main/public/assets/images/cms_screenshot.png"
                 alt="Shoes"
               />
@@ -321,7 +321,7 @@ const Work = () => {
           <div className="card max-w-sm bg-base-100 shadow-xl rounded-none mx-auto">
             <figure className="h-52 overflow-hidden">
               <img
-                className="w-full h-full object-cover object-top"
+                className="w-full h-full object-cover object-top p-4 bg-blue-900"
                 src="https://github.com/ss12932/employee-tracker/raw/main/public/assets/images/cms_screenshot.png"
                 alt="Shoes"
               />
@@ -345,7 +345,7 @@ const Work = () => {
           <div className="card max-w-sm bg-base-100 shadow-xl rounded-none mx-auto">
             <figure className="h-52 overflow-hidden">
               <img
-                className="w-full h-full object-cover object-top"
+                className="w-full h-full object-cover object-top p-4 bg-blue-900"
                 src="https://github.com/ss12932/mvp-pet-app/raw/main/public/images/UI1.png"
                 alt="Shoes"
               />
