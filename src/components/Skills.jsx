@@ -80,7 +80,15 @@ const Skills = () => {
             <p className="my-4">Heroku</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 hover:bg-gray-300 hover:text-gray-700 duration-500 bg-blue-900">
-            <img className="w-20 mx-auto" src={Mongoose} alt="Heroku icon" />
+            <img className="w-20 mx-auto" src={Git} alt="Heroku icon" />
+            <p className="my-4">Git</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 hover:bg-gray-300 hover:text-gray-700 duration-500 bg-blue-900">
+            <img
+              className="w-20 h-20 mx-auto object-contain"
+              src={Mongoose}
+              alt="Heroku icon"
+            />
             <p className="my-4">Mongoose</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 hover:bg-gray-300 hover:text-gray-700 duration-500 bg-blue-900">
