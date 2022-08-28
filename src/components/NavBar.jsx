@@ -113,6 +113,7 @@ function NavBar() {
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="https://github.com/ss12932"
+              target="_blank"
               rel="noreferrer"
             >
               Github <FaGithub size={30} />

@@ -1,9 +1,9 @@
 import NavBar from './components/NavBar';
-import Home from './components/Home';
-import About from './components/About';
-import Skills from './components/Skills';
-import Work from './components/Work';
-import Contact from './components/Contact';
+import Home from './pages/Home';
+import About from './pages/About';
+import Skills from './pages/Skills';
+import Work from './pages/Work';
+import Contact from './pages/Contact';
 
 function App() {
   return (
