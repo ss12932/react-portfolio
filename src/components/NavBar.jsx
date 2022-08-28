@@ -1,11 +1,5 @@
 import { useState } from 'react';
-import {
-  FaBars,
-  FaTimes,
-  FaGithub,
-  FaLinkedin,
-  FaFacebook,
-} from 'react-icons/fa';
+import { FaBars, FaTimes, FaGithub, FaLinkedin } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import Logo from '../assets/logo.png';
@@ -22,28 +16,28 @@ function NavBar() {
 
       {/* menu */}
       <ul className="hidden md:flex space-x-4">
-        <li className="border-transparent border-b-2 hover:border-pink-600 hover:text-pink-600 hover:border-b-2">
-          <Link to="home" smooth={true} duration={500}>
+        <li className="border-transparent border-b-2 pb-2 hover:border-pink-600 hover:text-pink-600 hover:border-b-2">
+          <Link to="home" smooth={true} duration={500} offset={-80}>
             Home
           </Link>
         </li>
         <li className=" border-transparent border-b-2 hover:border-pink-600 hover:text-pink-600 hover:border-b-2">
-          <Link to="about" smooth={true} duration={500}>
+          <Link to="about" smooth={true} duration={500} offset={-80}>
             About
           </Link>
         </li>
-        <li className="border-transparent border-b-2 hover:border-pink-600 hover:text-pink-600 hover:border-b-2">
-          <Link to="skills" smooth={true} duration={500}>
+        <li className="border-transparent border-b-2 pb-2 hover:border-pink-600 hover:text-pink-600 hover:border-b-2">
+          <Link to="skills" smooth={true} duration={500} offset={-80}>
             Skills
           </Link>
         </li>
-        <li className="border-transparent border-b-2 hover:border-pink-600 hover:text-pink-600 hover:border-b-2">
-          <Link to="work" smooth={true} duration={500}>
+        <li className="border-transparent border-b-2 pb-2 hover:border-pink-600 hover:text-pink-600 hover:border-b-2">
+          <Link to="work" smooth={true} duration={500} offset={-80}>
             Work
           </Link>
         </li>
-        <li className="border-transparent border-b-2 hover:border-pink-600 hover:text-pink-600 hover:border-b-2">
-          <Link to="contact" smooth={true} duration={500}>
+        <li className="border-transparent border-b-2 pb-2 hover:border-pink-600 hover:text-pink-600 hover:border-b-2">
+          <Link to="contact" smooth={true} duration={500} offset={-80}>
             Contact
           </Link>
         </li>
@@ -62,23 +56,47 @@ function NavBar() {
         }
       >
         <li className="py-6 text-4xl">
-          <Link onClick={handleClick} to="home" smooth={true} duration={500}>
+          <Link
+            onClick={handleClick}
+            to="home"
+            smooth={true}
+            duration={500}
+            offset={-80}
+          >
             Home
           </Link>
         </li>
         <li className="py-6 text-4xl">
-          <Link onClick={handleClick} to="about" smooth={true} duration={500}>
+          <Link
+            onClick={handleClick}
+            to="about"
+            smooth={true}
+            duration={500}
+            offset={-80}
+          >
             About
           </Link>
         </li>
         <li className="py-6 text-4xl">
-          <Link onClick={handleClick} to="skills" smooth={true} duration={500}>
+          <Link
+            onClick={handleClick}
+            to="skills"
+            smooth={true}
+            duration={500}
+            offset={-80}
+          >
             Skills
           </Link>
         </li>
         <li className="py-6 text-4xl">
           <li>
-            <Link onClick={handleClick} to="work" smooth={true} duration={500}>
+            <Link
+              onClick={handleClick}
+              to="work"
+              smooth={true}
+              duration={500}
+              offset={-80}
+            >
               Work
             </Link>
           </li>
@@ -129,7 +147,7 @@ function NavBar() {
               Email <HiOutlineMail size={30} />
             </a>
           </li>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 bg-[#565f69]">
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 bg-[#ca6702ff]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="https://drive.google.com/file/d/1btkEbGZiysrWm1F6FfMu9DNbnvq6sPny/view"
