@@ -21,28 +21,28 @@ function NavBar() {
       </div>
 
       {/* menu */}
-      <ul className="hidden md:flex">
-        <li>
+      <ul className="hidden md:flex space-x-4">
+        <li className="border-transparent border-b-2 hover:border-pink-600 hover:text-pink-600 hover:border-b-2">
           <Link to="home" smooth={true} duration={500}>
             Home
           </Link>
         </li>
-        <li>
+        <li className=" border-transparent border-b-2 hover:border-pink-600 hover:text-pink-600 hover:border-b-2">
           <Link to="about" smooth={true} duration={500}>
             About
           </Link>
         </li>
-        <li>
+        <li className="border-transparent border-b-2 hover:border-pink-600 hover:text-pink-600 hover:border-b-2">
           <Link to="skills" smooth={true} duration={500}>
             Skills
           </Link>
         </li>
-        <li>
+        <li className="border-transparent border-b-2 hover:border-pink-600 hover:text-pink-600 hover:border-b-2">
           <Link to="work" smooth={true} duration={500}>
             Work
           </Link>
         </li>
-        <li>
+        <li className="border-transparent border-b-2 hover:border-pink-600 hover:text-pink-600 hover:border-b-2">
           <Link to="contact" smooth={true} duration={500}>
             Contact
           </Link>
