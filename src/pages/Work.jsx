@@ -1,5 +1,5 @@
-import { IoIosRocket } from 'react-icons/io5';
-import { FaCode } from 'react-icons/fa';
+import ProjectCard from '../components/ProjectCard';
+import projects from '../data/projects';
 
 const Work = () => {
   return (
@@ -15,7 +15,10 @@ const Work = () => {
           <p className="py-6">Check out my recent work</p>
         </div>
         <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-          <div className="card max-w-sm bg-base-100 shadow-xl rounded-none mx-auto">
+          {projects.map((project) => (
+            <ProjectCard {...project} />
+          ))}
+          {/* <div className="card max-w-sm bg-base-100 shadow-xl rounded-none mx-auto">
             <figure className="h-52 overflow-hidden">
               <img
                 className="w-full h-full object-cover object-top p-4 bg-blue-900"
@@ -367,7 +370,7 @@ const Work = () => {
                 </button>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
