@@ -1,4 +1,4 @@
-const ProjectCard = ({ skillImage, name }) => {
+const SkillCard = ({ skillImage, name }) => {
   return (
     <div className="shadow-md shadow-[#040c16] hover:scale-110 hover:bg-gray-300 hover:text-gray-700 duration-500 bg-blue-900">
       <img
@@ -11,4 +11,4 @@ const ProjectCard = ({ skillImage, name }) => {
   );
 };
 
-export default ProjectCard;
+export default SkillCard;

@@ -1,5 +1,5 @@
 import skills from '../data/skills';
-import ProjectCard from '../components/ProjectCard';
+import SkillCard from '../components/SkillCard';
 
 const Skills = () => {
   return (
@@ -18,7 +18,7 @@ const Skills = () => {
         {/* TODO: sort out attributions to images later */}
         <div className="w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8">
           {skills.map((item, i) => (
-            <ProjectCard {...item} key={i} />
+            <SkillCard {...item} key={i} />
           ))}
         </div>
       </div>
