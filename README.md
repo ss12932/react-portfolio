@@ -26,7 +26,7 @@ https://github.com/ss12932/react-portfolio
 
 ## Screenshot
 
-![screenshot](./public/assets/screenshot.png)
+![screenshot](./src/assets/screenshot.png)
 
 ## Installation
 
