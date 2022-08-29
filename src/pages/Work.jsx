@@ -1,4 +1,5 @@
-import { FaGithub, FaCode } from 'react-icons/fa';
+import { IoIosRocket } from 'react-icons/io5';
+import { FaCode } from 'react-icons/fa';
 
 const Work = () => {
   return (
