@@ -21,7 +21,7 @@ function Home() {
           </p>
           <div>
             <Link to="work" smooth={true} duration={500} offset={-80}>
-              <button className="text-white group border-2 px-6 py-3 my-2 flex items-center mx-auto lg:mx-0 hover:bg-pink-600 hover:border-pink-600">
+              <button className=" text-white group border-2 px-6 py-3 my-2 flex items-center mx-auto lg:mx-0 hover:bg-pink-600 hover:border-pink-600 hover:animate-radiate">
                 View Work
                 <span className="block group-hover:hidden">
                   <HiArrowNarrowRight className="ml-3" />
