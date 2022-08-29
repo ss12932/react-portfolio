@@ -21,12 +21,16 @@ const ProjectCard = ({
         <h2 className="card-title font-bold">{title}</h2>
         <p className="text-sm">{description}</p>
         <div className="mx-auto space-x-6">
-          <button className="btn bg-[#e31a6d] mx-auto">
-            <IoIosRocket />
-          </button>
-          <button className="btn bg-[#e31a6d] mx-auto">
-            <FaCode />
-          </button>
+          <a href={deployedLink}>
+            <button className="btn bg-[#e31a6d] mx-auto">
+              <IoIosRocket />
+            </button>
+          </a>
+          <a href={repositoryLink}>
+            <button className="btn bg-[#e31a6d] mx-auto">
+              <FaCode />
+            </button>
+          </a>
         </div>
       </div>
     </div>
