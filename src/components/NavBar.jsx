@@ -89,29 +89,26 @@ function NavBar() {
           </Link>
         </li>
         <li className="py-6 text-4xl">
-          <li>
-            <Link
-              onClick={handleClick}
-              to="work"
-              smooth={true}
-              duration={500}
-              offset={-80}
-            >
-              Work
-            </Link>
-          </li>
+          <Link
+            onClick={handleClick}
+            to="work"
+            smooth={true}
+            duration={500}
+            offset={-80}
+          >
+            Work
+          </Link>
         </li>
         <li className="py-6 text-4xl">
-          <li>
-            <Link
-              onClick={handleClick}
-              to="contact"
-              smooth={true}
-              duration={500}
-            >
-              Contact
-            </Link>
-          </li>
+          <Link
+            onClick={handleClick}
+            to="contact"
+            smooth={true}
+            duration={500}
+            offset={-80}
+          >
+            Contact
+          </Link>
         </li>
       </ul>
       {/* social icons */}
