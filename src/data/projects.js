@@ -77,7 +77,6 @@ const projects = [
     description:
       "A command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.",
     repositoryLink: 'https://github.com/ss12932/readme-generator',
-    deployedLink: 'n/a',
   },
   {
     image:
@@ -87,7 +86,6 @@ const projects = [
     description:
       'A Node.js CLI application that takes in information about employees on a software engineering team , then generates HTML webpage that displays summaries for each person. This application will be following TDD principles using jest to make code more maintainable.',
     repositoryLink: 'https://github.com/ss12932/team-profile-generator',
-    deployedLink: 'n/a',
   },
   {
     image:
@@ -107,7 +105,6 @@ const projects = [
     description:
       "A command-line application that manages a company's employee database, using Node.js, Inquirer, and MySQL.",
     repositoryLink: 'https://github.com/ss12932/employee-tracker',
-    deployedLink: 'n/a',
   },
   {
     image:
